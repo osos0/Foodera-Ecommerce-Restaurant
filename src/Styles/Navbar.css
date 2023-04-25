@@ -1,0 +1,8 @@
+.ora {
+  color: var(--h1-color) !important;
+  font-weight: 800 !important;
+}
+
+.navbar-collapse {
+  flex-grow: 0 !important;
+}

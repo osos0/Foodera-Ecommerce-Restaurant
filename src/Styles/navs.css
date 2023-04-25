@@ -1,0 +1,17 @@
+#nave {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+#lis {
+  margin-right: 10px;
+  display: flex;
+  justify-content: flex-end;
+  font-weight: bold;
+}
+
+#lis a {
+  color: var(--h1-color);
+}
