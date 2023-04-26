@@ -26,19 +26,19 @@ function Home() {
       </section>
       <section className="nums">
         <div className="row section2">
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-3">
             <h1>1287+</h1>
             <p>Saving</p>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-3">
             <h1>5786+</h1>
             <p>PHOTOS</p>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-3">
             <h1>1440+</h1>
             <p>ROCKETS</p>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-3">
             <h1>7110+</h1>
             <p>GLOBES</p>
           </div>

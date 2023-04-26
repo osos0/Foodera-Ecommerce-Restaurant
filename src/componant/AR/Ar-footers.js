@@ -57,27 +57,27 @@ function ARFooters() {
         <div className="row">
           <div className="col-12 linko">
             <ul>
-              <a href="/AR"> تسجيل </a>
-              <a href="/AR"> المنتدى </a>
-              <a href="/AR"> تابع </a>
-              <a href="/AR"> التعلميات </a>
+              <a href="/ar"> تسجيل </a>
+              <a href="/ar"> المنتدى </a>
+              <a href="/ar"> تابع </a>
+              <a href="/ar"> التعلميات </a>
             </ul>
           </div>
           <div className="col-12 social">
             <ul>
-              <a href="/AR">
+              <a href="/ar">
                 <i className="fa-brands fa-google"></i>
               </a>
-              <a href="/AR">
+              <a href="/ar">
                 <i className="fa-brands fa-facebook-f"></i>{" "}
               </a>
-              <a href="/AR">
+              <a href="/ar">
                 <i className="fa-brands fa-twitter"></i>
               </a>
-              <a href="/AR">
+              <a href="/ar">
                 <i className="fa-brands fa-youtube"></i>
               </a>
-              <a href="/AR">
+              <a href="/ar">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
             </ul>

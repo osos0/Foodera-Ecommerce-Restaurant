@@ -1,5 +1,24 @@
+body {
+  margin: 0;
+  padding: 0 !important;
+}
+
 :root {
   --h1-color: #a82c48;
   /* --h1-color: #207349; */
   --p-color: rgb(43, 43, 43);
+}
+
+@media only screen and (max-width: 992px) {
+  h1 {
+    font-size: 30px;
+    line-height: 25px;
+  }
+  h2 {
+    font-size: 30px !important;
+    line-height: 30px !important;
+  }
+  p {
+    margin: 10px !important;
+  }
 }

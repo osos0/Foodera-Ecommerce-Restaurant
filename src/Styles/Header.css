@@ -237,7 +237,7 @@ p {
 .Frequently h2 {
   color: var(--h1-color);
   font-size: 45px;
-  margin: 60px;
+  margin: 20px auto !important;
 }
 
 .Frequently p {
@@ -250,7 +250,7 @@ p {
 .Hurry_up h2 {
   color: var(--h1-color);
   font-size: 45px;
-  margin: 60px;
+  margin: 20px auto !important;
 }
 
 .Hurry_up p {

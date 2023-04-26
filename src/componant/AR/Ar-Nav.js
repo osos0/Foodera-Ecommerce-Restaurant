@@ -20,14 +20,14 @@ function ArNavs() {
               <button className="ENbtn">EN</button>{" "}
             </Nav.Link>
             {/* <Nav.Link href="/"> التعلميات </Nav.Link> */}
-            <Nav.Link href="/AR"> ملخص </Nav.Link>
+            <Nav.Link href="/ar"> ملخص </Nav.Link>
             <Nav.Link href="#slidePlace"> تقيمات </Nav.Link>
             <Nav.Link href="/arexplore"> اكتشف </Nav.Link>
             <Nav.Link href="/araboutme"> من نحن </Nav.Link>
             <Nav.Link href="/ar"> الرئيسيه </Nav.Link>
           </Nav>
         </Navbar.Collapse>
-        <Navbar.Brand href="/AR">
+        <Navbar.Brand href="/ar">
           <img src={logo} alt=""></img>
         </Navbar.Brand>
       </Container>

@@ -7,8 +7,8 @@ import logoSample from "../../imges/lo.png";
 const Navbar = () => {
   return (
     <>
-      <nav className={`navbar navbar-expand-lg  ${navStyle.navo}`}>
-        <div className={`container `}>
+      <nav className={`navbar navbar-expand-lg navo}`}>
+        <div className={`container`}>
           <Link className={`navbar-brand`} to="/">
             <Image src={logoSample} alt="logo" />
           </Link>
@@ -60,18 +60,14 @@ const Navbar = () => {
                   Reviews
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link ora" aria-current="page" to="/blogs">
-                  Blogs
-                </Link>
-              </li>
+
               <li className="nav-item">
                 <Link className="nav-link ora" aria-current="page" to="/">
                   FAQ
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link ora" aria-current="page" to="/AR">
+                <Link className="nav-link ora" aria-current="page" to="/ar">
                   <button className="ENbtn">AR</button>
                 </Link>
               </li>

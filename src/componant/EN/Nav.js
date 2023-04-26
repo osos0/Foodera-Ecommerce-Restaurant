@@ -22,7 +22,7 @@ function Navs() {
             <Nav.Link href="/explore">Explore Foods</Nav.Link>
             <Nav.Link href="#EnSlide">Reviews</Nav.Link>
             <Nav.Link href="/">FAQ</Nav.Link>
-            <Nav.Link href="/AR">
+            <Nav.Link href="/ar">
               <button className="ENbtn">AR</button>{" "}
             </Nav.Link>
           </Nav>
