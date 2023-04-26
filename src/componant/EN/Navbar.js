@@ -52,11 +52,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link
-                  className="nav-link ora"
-                  aria-current="page"
-                  to="#EnSlide"
-                >
+                <Link className="nav-link ora" aria-current="page" to="/">
                   Reviews
                 </Link>
               </li>

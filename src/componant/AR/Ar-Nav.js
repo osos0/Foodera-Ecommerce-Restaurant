@@ -21,7 +21,7 @@ function ArNavs() {
             </Nav.Link>
             {/* <Nav.Link href="/"> التعلميات </Nav.Link> */}
             <Nav.Link href="/ar"> ملخص </Nav.Link>
-            <Nav.Link href="#slidePlace"> تقيمات </Nav.Link>
+            <Nav.Link href="/ar"> تقيمات </Nav.Link>
             <Nav.Link href="/arexplore"> اكتشف </Nav.Link>
             <Nav.Link href="/araboutme"> من نحن </Nav.Link>
             <Nav.Link href="/ar"> الرئيسيه </Nav.Link>
